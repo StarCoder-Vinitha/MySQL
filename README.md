@@ -1,1 +1,1 @@
-MySQL Practice Exercises
+MySQL Practice Exercises on Sakila Database.
